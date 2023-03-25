@@ -1,8 +1,6 @@
 # ChatGPT Prompts for Bug Bounty 🧠
 
 A list of ChatGPT Prompts for Web Application Security, Bug Bounty, and Pentesting.
-
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/TakSec.svg?style=social&label=Follow%20%40TakSec)](https://twitter.com/TakSec)
 </p>
 
 ---
@@ -112,6 +110,3 @@ Summarize the exploit for the following bug bounty report in numbered bullets to
 > Write the HTTP request in the form of Burp Suite Repeater for the HTTP request referenced in the js: &lt;insert js&gt;
 
 ---
-
-> GitHub [@TakSec](https://github.com/TakSec) &nbsp;&middot;&nbsp;
-> Twitter [@TakSec](https://twitter.com/TakSec)
