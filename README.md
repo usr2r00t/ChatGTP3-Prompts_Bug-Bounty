@@ -1,6 +1,6 @@
 # ChatGPT Prompts for Bug Bounty 🧠
 
-A list of ChatGPT Prompts for Web Application Security, Bug Bounty, and Pentesting.
+A list of ChatGPT Prompts for Web Application Security, Bug Bounty and Pentesting.
 </p>
 
 ---
